@@ -1,8 +1,8 @@
-package com.iut.appmob.howaboutyou;
+package com.iut.appmob.whataboutyou;
 
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 /**
  * Example local unit test, which will execute on the development machine (host).

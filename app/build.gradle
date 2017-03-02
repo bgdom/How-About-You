@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId "com.iut.appmob.howaboutyou"
+        applicationId "com.iut.appmob.whataboutyou"
         minSdkVersion 16
         targetSdkVersion 25
         versionCode 1
@@ -26,6 +26,6 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:25.1.1'
     compile 'com.facebook.android:facebook-android-sdk:[4,5)'
-    compile 'com.android.support.constraint:constraint-layout:1.0.0'
     testCompile 'junit:junit:4.12'
+    compile 'com.android.support:recyclerview-v7:25.1.1'
 }

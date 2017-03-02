@@ -1,4 +1,4 @@
-package com.iut.appmob.howaboutyou;
+package com.iut.appmob.whataboutyou;
 
 import android.content.Intent;
 import android.os.Bundle;
