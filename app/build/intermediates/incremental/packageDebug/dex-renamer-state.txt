@@ -1,0 +1,7 @@
+#Thu Mar 02 12:53:31 CET 2017
+base.0=C\:\\Users\\guydo\\Documents\\IUT\\s4\\APPMOB\\How-About-You\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_414c07d8796b848bd36826aad457c02d5d7a4b25
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\guydo\\Documents\\IUT\\s4\\APPMOB\\How-About-You\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fdccaa4228f9a50986e21b3b71787cfdc4723e23\\classes.dex
+base.1=C\:\\Users\\guydo\\Documents\\IUT\\s4\\APPMOB\\How-About-You\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fdccaa4228f9a50986e21b3b71787cfdc4723e23
+file.0=C\:\\Users\\guydo\\Documents\\IUT\\s4\\APPMOB\\How-About-You\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_414c07d8796b848bd36826aad457c02d5d7a4b25\\classes.dex

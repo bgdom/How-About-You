@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\guydo\.android\build-cache\1e12b3f3ee298fa9540690cabdbdffe6b1811773\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\guydo\Documents\IUT\s4\APPMOB\How-About-You\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_767c9bb79f7375d040037e5977baa6abd13fb424\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guydo\Documents\IUT\s4\APPMOB\How-About-You\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15cb0cede3336166ec0243d25b74c16da992cceb">
+        <dex dex="C:\Users\guydo\Documents\IUT\s4\APPMOB\How-About-You\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fdccaa4228f9a50986e21b3b71787cfdc4723e23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guydo\.android\build-cache\52d9001a6447d057f6c304e0262fcbcf14a8d718\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="C:\Users\guydo\Documents\IUT\s4\APPMOB\How-About-You\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eab24ac251e320a8d4b8dcfe3a7f27c731b746fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guydo\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\guydo\Documents\IUT\s4\APPMOB\How-About-You\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_bc17b7fc1a32f15df4f9ac5d6dd3ae81713f8ffa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guydo\Documents\IUT\s4\APPMOB\How-About-You\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2fbdfef027f19939820542e6080e06ad9c1f8d21">
+        <dex dex="C:\Users\guydo\Documents\IUT\s4\APPMOB\How-About-You\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_414c07d8796b848bd36826aad457c02d5d7a4b25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guydo\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\guydo\Documents\IUT\s4\APPMOB\How-About-You\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_c4b8fdf2f408903e485acf3d46b6b93d66394f70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guydo\.android\build-cache\b6a6b76209954ae13513d47d606e1ce8ca0caaf9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb2ef781533c3f11c4e80341cbaebad275c66586">
+        <dex dex="C:\Users\guydo\Documents\IUT\s4\APPMOB\How-About-You\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_edb8fb972ee3abe856e5bcd9c0256bca5722494f\classes.dex" />
+    </item>
+
+</items>
